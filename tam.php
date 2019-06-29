@@ -52,7 +52,7 @@ echo "$darkgray
 \033[41;2;32m|~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|\033[0;0m $darkgray
 $bg| $gb Nama :$lightgreen Dede Aqil$darkgray                                 $bg |$gb
 $bg| $gb nick :$lightgreen InYourXerXez$darkgray                              $bg |$gb
-$bg| $gb Team :$lightgreen 2e4h-GblgCrew-Bogor BlackHat-Buft     $bg |$gb
+$bg| $gb Team :$lightgreen 2e4h-GblgCrew-Bogor BlackHat-Buft         $bg |$gb
 \033[41;2;32m|~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|\033[0;0m
      AUTHOR : IyXerXez7
      C0DEX  : IyXerXez7
