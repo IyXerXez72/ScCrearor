@@ -45,7 +45,7 @@ Oficial Gblg Crew :$lightgreen
 lead  :$darkgray Takur$lightgreen
 Admin :$darkgray Takur-XerXez7-IyCtr-lecek-XDream
       $bg Takur-XerXez7-LALA-Eses-ClcLx-Ctr-Sasaki-ScKidhie-IyKidhoy $gb
-Thank To friends :$bg TAKUR-LALA-ESES-CTR-EXTENTION-BIMA CYBER GHOST-25JUL-SASAKI-SCKIDHIE-SULTAN-NARUTO Mem 2E4H-DFA-BUFT-GBLGCREW-BIMO$gb
+Thank To friends :$bg TAKUR-LALA-ESES-CTR-EXTENTION-BIMA CYBER GHOST-25JUL-SASAKI-SCKIDHIE-SULTAN-NARUTO Mem 2E4H-BUFT-GBLGCREW-BIMO$gb
 		KETIK : *clear* UNTUK KEMBALI KE HALAMAN
 ";
 
